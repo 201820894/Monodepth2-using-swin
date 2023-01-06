@@ -1,0 +1,14 @@
+swin_transformer_v2-0.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+swin_transformer_v2-0.1.dist-info/LICENSE,sha256=OXc0ccpb_gjRnLsko66gDJ8YnwJqnAsGynO0EtShyMs,1091
+swin_transformer_v2-0.1.dist-info/METADATA,sha256=xbVNQcnf2sv5F8X8q17czsws--wvFwNAuglby5ISkh0,334
+swin_transformer_v2-0.1.dist-info/RECORD,,
+swin_transformer_v2-0.1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+swin_transformer_v2-0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+swin_transformer_v2-0.1.dist-info/direct_url.json,sha256=PRNPtLHmtmVzDaf21C0I-ITe27fpbvyGPNgHm67dkvw,153
+swin_transformer_v2-0.1.dist-info/top_level.txt,sha256=nJIsmTxNrMyAAlgS_GU6J6pS_DYjt9wtjKFKqYxgOxI,20
+swin_transformer_v2/__init__.py,sha256=coa-6P0WLdwgw8QMLGgsCzW6TEMJSqaZJ7S_pwj6SlE,315
+swin_transformer_v2/__pycache__/__init__.cpython-310.pyc,,
+swin_transformer_v2/__pycache__/model.cpython-310.pyc,,
+swin_transformer_v2/__pycache__/model_parts.cpython-310.pyc,,
+swin_transformer_v2/model.py,sha256=NELqGlWgEf2APEBubEgKppwepzsqaZB-Y7vHIFZ78Ys,14002
+swin_transformer_v2/model_parts.py,sha256=F2YpdtH7HXUoUh5yfey_h99ibWMtl6jpzpGmgbikw2M,41286

@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: swin-transformer-v2
+Version: 0.1
+Summary: PyTorch Swin Transformer V2
+Home-page: https://github.com/ChristophReich1996/Swin-Transformer-V2
+Author: Christoph Reich
+Author-email: ChristophReich@gmx.net
+License: MIT License
+License-File: LICENSE
+Requires-Dist: torch (>=1.7.0)
+Requires-Dist: timm (>=0.4.12)
+
