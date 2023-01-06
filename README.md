@@ -6,7 +6,7 @@ This repo is based on [Swin transformer](https://github.com/microsoft/Swin-Trans
 
 All setup and dataset follows [MonodepthV2](https://github.com/nianticlabs/monodepth2).
 
-We train [`mono_640x192`](https://storage.googleapis.com/niantic-lon-static/research/monodepth2/mono_640x192.zip) model as scratch and compared to original MonodepthV2 using ResNet encoder
+We train mono_640x192 model as scratch and compared to original MonodepthV2 using ResNet encoder
 
 ## ⏳ Training
 
