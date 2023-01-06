@@ -1,6 +1,5 @@
 # Monodepth2
 
-============================================================================================================================
 This is Pytorch implementation of MonodepthV2 using swin transformerV2
 
 This repo is based on [Swin transformer](https://github.com/microsoft/Swin-Transformer) by [ChristophReich1996](https://github.com/ChristophReich1996/Swin-Transformer-V2) and [MonodepthV2](https://github.com/nianticlabs/monodepth2)
